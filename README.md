@@ -1,3 +1,6 @@
+#Auto Shutdown jika Listrik mati lampu
+edit pada ip pada script shutdown.sh ke ip perangkat yang jika listrik mati perangkat juga mati
+
 copy sript ke /root
 
 cp shutdown.sh /root
